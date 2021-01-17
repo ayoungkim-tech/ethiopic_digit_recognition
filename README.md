@@ -3,7 +3,7 @@ https://github.com/ayoungkim-tech/ethiopic_digit_recognition
 It is [Kaggle competition](https://www.kaggle.com/c/tau-ethiopic-digit-recognition) project work from the course.  
 The method used at here is CNN with a dense layer with softmax activation as the last layer.
 # Tech/framework used
-Built with [Jupyter Notebook ](https://jupyter.org/)
+Built with [Jupyter Notebook ](https://jupyter.org/) using Python programming language.
 # Features
    Softmax regression is a model that can classify into n different classes. Logistic regression only classifies into two different classes. Compared to Logistic regression, using a dense layer with softmax activation as the last layer of our CNN model is more suitable for the classification of Ethiopic digits. It is because we can interpret output as the probability of the image belonging to one of the ten classes.  
 
